@@ -1,7 +1,7 @@
 
 # BharatPay ☕💸  
-**UPI-Crypto Payments for India's 63M Small Businesses**  
-*Winner's Submission for [Hackathon Name]*  
+**UPI-Crypto Payments for India 
+ 
 
 [![Polygon](https://img.shields.io/badge/Polygon-zkevm-8247e5)](https://polygon.technology/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -45,8 +45,4 @@
 ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2)
 ![Aadhaar_Hashing](https://img.shields.io/badge/-Aadhaar_Hashing-green)
 
-## 🛠️ Installation
-**1. Clone Repo**
-```bash
-git clone https://github.com/yourusername/bharatpay.git
-cd bharatpay && cd contracts && npm install
+
