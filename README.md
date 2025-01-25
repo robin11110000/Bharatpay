@@ -7,7 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Demo](https://img.shields.io/badge/Live_Demo-Vercel-brightgreen)](https://your-demo-link.vercel.app)
 
-<img src="https://i.imgur.com/5Xw3K3x.gif" width="600" alt="BharatPay Demo">
+![image](https://github.com/user-attachments/assets/e40ad0ff-3a8f-4da3-b2c5-9cf7ba65b51e)
+![image](https://github.com/user-attachments/assets/dc51dc4d-d5a3-4544-997c-0b18936aec5a)
+
+
 
 ## 🚀 Problem Solved
 **India's UPI Processes 8B+ Transactions/Month, But:**
