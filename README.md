@@ -1,6 +1,6 @@
 
 # BharatPay ☕💸  
-**UPI-Crypto Payments for India 
+UPI-Crypto Payments for India 
  
 
 [![Polygon](https://img.shields.io/badge/Polygon-zkevm-8247e5)](https://polygon.technology/)
